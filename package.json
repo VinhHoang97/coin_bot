@@ -1,0 +1,27 @@
+{
+  "name": "coin_bot",
+  "version": "1.0.0",
+  "description": "coin_bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VinhHoang97/coin_bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VinhHoang97/coin_bot/issues"
+  },
+  "homepage": "https://github.com/VinhHoang97/coin_bot#readme",
+  "dependencies": {
+    "asciichart": "^1.5.25",
+    "ccxt": "^1.58.95",
+    "delay": "^5.0.0",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.1"
+  }
+}
